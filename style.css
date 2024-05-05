@@ -1,0 +1,21 @@
+.uzer{
+    color: red;
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.decoration{
+    text-decoration: line-through;
+
+}
